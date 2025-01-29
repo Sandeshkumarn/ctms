@@ -1,9 +1,13 @@
-# ctms
-A simple project on DBMS built using Django(MYSQL)to organize cricket tournaments.
+# CRICKET TOURNAMENT ORGANIZER
 
-features
+A simple project on DBMS built using Django(MySQL) to organize cricket tournaments.
 
- Total control of the tournaments using Admin Panel
- Team Manager Dashboard
- Schedule,track and store staticstics of every match
- track player statistics
+
+## Features
+
+- Total control of the tournaments using Admin Panel
+- Team Manager Dashboard
+- Schedule, track and store statistics of every match
+- Track player statistics
+
+
